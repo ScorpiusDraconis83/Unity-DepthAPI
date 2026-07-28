@@ -73,3 +73,7 @@ crashlytics-build.properties
 
 # Unity Package Manager lock file
 packages-lock.json
+
+# DevAgentSettings
+/[Aa]ssets/[Rr]esources/DevAgentSettings.asset
+/[Aa]ssets/[Rr]esources/DevAgentSettings.asset.meta
